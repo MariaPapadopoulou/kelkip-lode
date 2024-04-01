@@ -1,0 +1,21 @@
+<head>
+<style>
+  
+  h1 {
+        padding: 20px;
+        text-align: center;
+  }
+  
+  .box {
+          padding: 50px;
+          background-color: black;
+          
+  }
+  
+  
+  a {
+        text-decoration : none;
+        color: white;
+        text-align: center;
+        
+  }
